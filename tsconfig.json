@@ -16,6 +16,7 @@
     "typings/tsd.d.ts",
     "app.ts",
     "arrays/min-max.ts",
-    "trees/binary-tree.ts"
+    "trees/binary-tree.ts",
+    "trees/binary-search.ts"
   ]
 }
